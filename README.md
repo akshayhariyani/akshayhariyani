@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="akshayhariyani.gif" width="400" alt="Coding GIF" />
+  <img src="https://github.com/akshayhariyani/akshayhariyani/blob/main/akshayhariyani.gif" width="1000" height="500" alt="Coding GIF" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akshay Hariyani</h1>
