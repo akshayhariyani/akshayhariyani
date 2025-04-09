@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Akshay Hariyani</h1>
 
+<img align="right" src="https://github.com/akshayhariyani/akshayhariyani/blob/main/github-gif.gif" width="400" alt="Coding GIF" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayhariyani&label=Profile%20views&color=0e75b6&style=flat" alt="akshayhariyani" /> </p>
 
 - 🌱 I’m currently learning **ReactJs**
